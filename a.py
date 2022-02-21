@@ -7,4 +7,4 @@ for i in range(0,n):
 for num in nums:
     if(num>max):
         max = num
-print(max)con t thi sao
+print(max)
