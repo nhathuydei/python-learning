@@ -7,5 +7,5 @@ for i in range(0,n):
     
 for num in nums:
     if(num>max):
-        max = numđàasdadsad
+        max = num
 print(max)
